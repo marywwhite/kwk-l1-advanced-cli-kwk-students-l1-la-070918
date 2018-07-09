@@ -1,4 +1,4 @@
-mv delivery/
+mv delivery/carrots.txt veggies
 
 require 'spec_helper'
 
