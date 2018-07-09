@@ -1,3 +1,5 @@
+mv delivery/
+
 require 'spec_helper'
 
 describe 'directory structure' do
